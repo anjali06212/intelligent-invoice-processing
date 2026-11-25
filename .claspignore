@@ -1,0 +1,7 @@
+# Files to ignore when pushing to Google Apps Script
+tests/**
+docs/**
+sample-invoices/**
+README.md
+*.md
+.gitignore
