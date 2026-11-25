@@ -14,15 +14,13 @@ The deployed web application provides a centralized interface for monitoring inv
 
 The dashboard provides real-time visibility into invoice volumes, financial liabilities, approval status, paid amounts, outstanding balances, overdue invoices, and vendor-wise analytics.
 
-![Executive Dashboard Overview](<img width="1917" height="892" alt="image" src="https://github.com/user-attachments/assets/9c380b87-a758-4bd7-b898-3a4e2b536a38" />
-)
+<img width="1917" height="892" alt="image" src="https://github.com/user-attachments/assets/4ff4222c-d17a-4061-9686-149b46619b1d" />
 
 ### Financial Analytics
 
 Visualizes payment status distribution, monthly invoice values, approval distribution, and vendor-wise approved invoice amounts.
 
-![Financial Analytics Dashboard](<img width="1588" height="550" alt="image" src="https://github.com/user-attachments/assets/32fa3d89-31de-46ff-962c-58e376174b17" />
-)
+<img width="1588" height="550" alt="image" src="https://github.com/user-attachments/assets/8f39f7c6-281a-41d1-89f6-b9de1c700e54" />
 
 ## Key Features
 
